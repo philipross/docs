@@ -1,5 +1,7 @@
 # How changes to macOS 15.4 impact the use of Jamf Setup Manager
 
+###### N.B: The details within this document are applicable to macOS 15.4.0 and 15.4.1.<br />In my testing, there's no change to the Setup Assistant flow with the release of macOS 15.4.1 on 16th April 2025
+
 ## Firstly, how has Setup Assistant changed in macOS 15.4? 
 
 The main headline is that the `Location Services` pane now appears _**after**_ the user signs in.
